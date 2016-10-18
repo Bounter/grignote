@@ -26,10 +26,38 @@
     src: url('gricanard.ttf');
 }
 
-.grignoteTitle {
+.grignoteNavTitle {
+  color: #291a0f;
   font-family: gricanard;
-  font-size: 23pt;
-  font-kerning: 10pt;
+  float:left;
+  height:50px;
+  padding:5px 5px;
+  font-size:23pt;
+  line-height:20px
+  -webkit-text-stroke: 1px #ead7c8;
+   text-shadow:
+      2px 2px 0 #ead7c8,
+      -1px -1px 0 #ead7c8,  
+      1px -1px 0 #ead7c8,
+      -1px 1px 0 #ead7c8,
+      1px 1px 0 #ead7c8;
+
+}
+
+.grignoteLogo {
+  color: #291a0f;
+  font-family: gricanard;
+  font-size: 33pt;
+    line-height:20px
+
+  -webkit-text-stroke: 1px #ead7c8;
+   text-shadow:
+      2px 2px 0 #ead7c8,
+      -1px -1px 0 #ead7c8,  
+      1px -1px 0 #ead7c8,
+      -1px 1px 0 #ead7c8,
+      1px 1px 0 #ead7c8;
+
 }
 
 /*@media (max-width: 600px) {
