@@ -59,6 +59,15 @@
 
 }
 
+.panel-default > .panel-heading {
+  background-color: #291a0f;
+  color: #ead7c8;
+}
+
+.grignoteBG {
+  color: #291a0f;
+}
+
 /*@media (max-width: 600px) {
     .carousel-caption {
         display: none; /* Hide the carousel text when the screen is less than 600 pixels wide 
