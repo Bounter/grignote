@@ -64,8 +64,12 @@
   color: #ead7c8;
 }
 
-.grignoteBG {
+.grignoteBackground {
   color: #291a0f;
+}
+
+.grignoteBorder {
+  border-color: #291a0f;
 }
 
 /*@media (max-width: 600px) {
