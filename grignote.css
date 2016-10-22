@@ -75,6 +75,8 @@
 
 .grignoteBorder {
   border-color: #291a0f;
+  border-width: 3pt;
+  border-radius: 2pt;
 }
 
 .grignoteMarketingImg {
