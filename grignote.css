@@ -80,7 +80,7 @@
 }
 
 .grignoteMarketingImg {
-  width: 50%; /* temporary size down until we pick the images they want*/
+  /*width: 100%;*/ /* temporary size down until we pick the images they want*/
 }
 /*@media (max-width: 600px) {
     .carousel-caption {
